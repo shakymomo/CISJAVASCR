@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+img {
+    float: right;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+h3 {
+    text-align: center;
+    color: #666;
+}
+p {
+    text-align: center;
+    color: #888;
+}
